@@ -1,0 +1,27 @@
+EGPL Bot Privacy Policy
+Last updated: October 4, 2026
+
+EGPL Bot uses Google OAuth to access Google Drive. It may read, create, update, and organize files within Google Drive as necessary to maintain the EGPL archive.
+The application does not use Google Drive data for advertising, profiling, or unrelated purposes.
+
+How data is used
+Google Drive access is used only to:
+- store and update EGPL Discord archive files;
+- read existing archive files when necessary for synchronization or recovery;
+- preserve archive history and file organization;
+- maintain automated archive updates;
+- analyze archived EGPL Discord activity for the retrospective XP Leveling project,  a one-time event after the retrospective XP assigning is complete.
+
+Data sharing
+EGPL Bot does not sell Google user data.
+Google user data is not shared with advertisers or used for advertising purposes.
+
+Data retention
+Archive files remain in the authorized Google Drive account until they are manually deleted or otherwise removed by the account owner.
+Authentication credentials are used only to allow the automated archive system to access the authorized Google Drive account.
+Revoking access
+Access to Google Drive can be revoked at any time through the Google Account permissions/security settings.
+Revoking access will prevent EGPL Bot from performing future automatic updates of the EGPL Archives until authorization is restored.
+Contact
+For questions about this privacy policy or EGPL Bot, contact:
+kutoej@gmail.com
