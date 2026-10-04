@@ -1,0 +1,6 @@
+EGPL Bot
+EGPL Bot is a private utility used to support and preserve the EGPL Discord community.
+Its Google Drive integration is used to maintain automated backups of EGPL Discord archives, synchronize archive files, preserve historical records, and support administrative projects based on those archives.
+EGPL Bot accesses Google Drive only with authorization from the account owner.
+For information about how Google user data is handled, see the [Privacy Policy](https://github.com/kutoej/egplbotdrive/blob/main/privacy%20policy).
+Contact: kutoej@gmail.com
